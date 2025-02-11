@@ -62,7 +62,7 @@ def plot_earthquake_timeline(df):
         color_continuous_scale="Turbo",
         
         animation_frame="Date",  # Animate by date
-        projection="natural earth",
+        projection="orthographic",
         title="🌍 Earthquake Timeline Animation (Past 30 Days)",
         hover_name="Title",
         hover_data={"Magnitude": True, "Depth": True},
