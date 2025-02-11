@@ -1,5 +1,5 @@
 
-![newplot](https://github.com/user-attachments/assets/4a7efab8-bf1f-45d3-8c00-4e35c2a1c6c5)
+
 
 # Global Earthquake Data Visualization with Plotly
 
