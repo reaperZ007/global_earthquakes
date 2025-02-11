@@ -1,4 +1,6 @@
 
+![newplot (1)](https://github.com/user-attachments/assets/4fa9f386-7ec5-400c-8eca-be86a41627ca)
+![newplot (2)](https://github.com/user-attachments/assets/5d1c3c74-4422-4d17-9ae9-b6a8722b9a71)
 
 
 # Global Earthquake Data Visualization with Plotly
