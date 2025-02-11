@@ -1,5 +1,6 @@
 
-# global_earthquakes
+![newplot](https://github.com/user-attachments/assets/4a7efab8-bf1f-45d3-8c00-4e35c2a1c6c5)
+
 # Global Earthquake Data Visualization with Plotly
 
 This project demonstrates how to fetch, process, and visualize global earthquake data using a JSON API and Plotly. It retrieves earthquake information from a publicly available API (e.g., USGS Earthquake API) and uses Plotly to create interactive visualizations of the data.
